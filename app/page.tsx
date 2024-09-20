@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Save and see your changes instantly.  <-- vrajeala</li>
+          <li>Save and see your changes instantly.vrajeala</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-           AICI E CATERINCA
+           lol
           </a>
         </div>
       </main>
@@ -63,7 +63,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          AICI E CU STUDIU CU D ALEA
+          lol
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
@@ -93,7 +93,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          fifty lei
+          fiftylei
         </a>
       </footer>
     </div>
